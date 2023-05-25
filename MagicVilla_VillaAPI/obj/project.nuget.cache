@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XWQURKvIDaZE9ZlMLkD6DPgya7shIiLyPUAXhQMflnzA3pu48VISEOFlk0c5/gWTGLWBHYufWfbAHBLxg/b8zQ==",
+  "dgSpecHash": "N1jnw7mZVq3Gt7ghsu+CnDbsRSlSyhw5eLE5wYPA8Fx1LINXp/UycBNqau55RtzPr7bYtEt5q8bYyA25TZUH5Q==",
   "success": true,
   "projectFilePath": "S:\\Languages\\C#\\Relearning\\MagicVilla\\MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Keylan Shannon\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
-    "C:\\Users\\Keylan Shannon\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\Keylan Shannon\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
-    "C:\\Users\\Keylan Shannon\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
-    "C:\\Users\\Keylan Shannon\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
-    "C:\\Users\\Keylan Shannon\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "C:\\Users\\Keylan Shannon\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
